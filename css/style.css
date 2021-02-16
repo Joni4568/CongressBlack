@@ -20,12 +20,12 @@ li {
 h1, h2, h3, a {
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
-color: #292828;
+color: #494949;
 text-transform: uppercase;
 }
 
 h2 {
-color: #292828;
+color: #5d7177;
 }
 
 h3 {
@@ -33,7 +33,7 @@ font-size: 40px;
 padding-top: 8%; margin-bottom: 5px;
 }
 
-h4, p {
+h4, h5, h6, p {
 font-family: 'Roboto Slab', serif;
 color: #494949;
 }
@@ -149,6 +149,10 @@ header nav ul li:hover {
   margin: 0 auto 0 auto;
 }
 
+
+
+
+
 /* Server *************************************************************/
 
 #Server img {
@@ -176,6 +180,29 @@ header nav ul li:hover {
 }
 
 #server p {
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+/* Team *************************************************************/
+
+#team img {
+  width: 240px;
+
+}
+#team img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+
+#team h4 {
+  font-size: 25px
+}
+
+#about p {
   width: 700px;
   margin: 0 auto 0 auto;
 }
