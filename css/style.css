@@ -262,6 +262,13 @@ footer p {
   color: #f0f0f0;
   padding-top: 30px;
 }
+
+
+footer p4 {
+  font-size: 12px;
+  color: #f0f0f0;
+  padding-top: 30px;
+}
 /* MEDIA QUERIES *************************************************************/
 
 /* TABLES */
@@ -376,4 +383,62 @@ height: auto;
 
 
 
+}
+
+
+/* U N T E R - S E I T E N  *************************************************************/
+
+
+
+
+
+
+/* Formulare *************************************************************/
+
+#Formulare img {
+  width: 240px;
+
+}
+#Formulare img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+
+#Formulare h4 {
+  font-size: 25px
+}
+
+#Formulare p {
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+
+/* PLACEHOLDER *************************************************************/
+
+#PLACEHOLDER img {
+  width: 240px;
+
+}
+#PLACEHOLDER img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+#PLACEHOLDER {
+  background-color: #E3E1E0;
+}
+
+#PLACEHOLDER h4 {
+  font-size: 25px
+}
+
+#PLACEHOLDER p {
+  width: 700px;
+  margin: 0 auto 0 auto;
 }
