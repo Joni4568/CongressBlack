@@ -149,6 +149,9 @@ header nav ul li:hover {
   margin: 0 auto 0 auto;
 }
 
+#about {
+  background-color: #E3E1E0;
+}
 
 
 
@@ -171,15 +174,44 @@ header nav ul li:hover {
   -o-transform: scale(1.1);
 }
 
-#server {
-  background-color: #E3E1E0;
-}
+
 
 #server h4 {
   font-size: 25px
 }
 
 #server p {
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+/* Übersicht *************************************************************/
+
+#Übersicht img {
+  width: 240px;
+
+}
+
+#Übersicht {
+  background-color: #E3E1E0;
+}
+
+#Übersicht img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+#Übersicht {
+  background-color: #E3E1E0;
+}
+
+#Übersicht h4 {
+  font-size: 25px
+}
+
+#Übersicht p {
   width: 700px;
   margin: 0 auto 0 auto;
 }
@@ -214,8 +246,7 @@ header nav ul li:hover {
 
   }
 
-#partner {
-  background-color: #E3E1E0;
+
 
   }
 
@@ -231,6 +262,9 @@ header nav ul li:hover {
 #contact img {
   width: 240px;
 
+  }
+  #contact {
+    background-color: #E3E1E0;
   }
 
   #contact img:hover {
