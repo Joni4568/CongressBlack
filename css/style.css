@@ -149,11 +149,6 @@ header nav ul li:hover {
   margin: 0 auto 0 auto;
 }
 
-#about {
-  background-color: #E3E1E0;
-}
-
-
 
 
 /* Server *************************************************************/
@@ -247,9 +242,6 @@ header nav ul li:hover {
   }
 
 
-
-  }
-
   #partner img:hover {
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
@@ -263,6 +255,7 @@ header nav ul li:hover {
   width: 240px;
 
   }
+
   #contact {
     background-color: #E3E1E0;
   }
